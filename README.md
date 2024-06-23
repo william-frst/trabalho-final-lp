@@ -27,9 +27,10 @@ Seguindo esses passos, o projeto estará pronto para ser executado no IntelliJ, 
 # Funcionalidades
 
 O TekHouse possui funções de verificar e permitir ou negar acessos as telas a depender dos dados inseridos. Por exemplo, na tela de login, o sistema não permitirá que o usuário avance se os campos obrigatórios não forem preenchidos. Se o usuário tentar prosseguir sem preencher os campos de texto com algum dado, uma mensagem de aviso será exibida, solicitando o preenchimento dos campos em branco.
+<img src="https://github.com/william-frst/trabalho-final-lp/blob/main/imagens%20readme/Screenshot_1.png"/>
 
 Além disso, na tela de pagamento, o software possui validações para verificar se os dados inseridos estão formatados corretamente. Caso o usuário não escreva de maneira correta, como uma data de vencimento formatada inadequadamente, uma mensagem de erro será exibida, indicando a necessidade de corrigir os dados para prosseguir.
-
+<img src="https://github.com/william-frst/trabalho-final-lp/blob/main/imagens%20readme/Screenshot_2.png"/>
 
 # Demonstração
 https://github.com/william-frst/trabalho-final-lp/assets/94905269/8c28fd01-5a30-46e2-9fb2-afdc74343fe2
