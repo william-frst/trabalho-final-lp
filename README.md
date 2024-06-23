@@ -16,9 +16,6 @@ Desenvolvido a partir da premissa de ser o trabalho final da disciplina Linguage
 
 # Instalação de Dependências e Execução (IntelliJ)
 Para executar o projeto, será utilizada como referência a IDE IntelliJ. Primeiramente, é necessário baixar o projeto a partir do repositório no GitHub. Em seguida, instale o IntelliJ e abra o projeto baixado. Caso esta seja a primeira execução, pode ser necessário instalar a JDK 17. Se for o caso, o IntelliJ exibirá uma mensagem solicitando a instalação; basta clicar em "Download".
-
-<img src="ttps://github.com/william-frst/trabalho-final-lp/blob/main/imagens%20readme/screenshot.png"/>
-https://github.com/william-frst/trabalho-final-lp/blob/main/imagens%20readme/screenshot.png
 <img src="https://github.com/william-frst/trabalho-final-lp/blob/main/imagens%20readme/screenshot.png"/>
 
 
