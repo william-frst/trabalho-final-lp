@@ -9,7 +9,7 @@ Desenvolvido a partir da premissa de ser o trabalho final da disciplina Linguage
 - Java AbsoluteLayout
 
 
-# Requisitos e Dependência
+# Requisitos e Dependências
 - Java 17
 - Software de Ambiente de desenvolvimento integrado (IDE)
 - Biblioteca AbsoluteLayout
