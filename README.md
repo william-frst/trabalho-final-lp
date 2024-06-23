@@ -15,7 +15,7 @@ Desenvolvido a partir da premissa de ser o trabalho final da disciplina Linguage
 - Biblioteca AbsoluteLayout
 
 
-<img src="https://github.com/william-frst/trabalho-final-lp/blob/main/imagens%20readme/Desktop23-06-202400-46-36-ezgif.com-video-cutter.mp4"/>
+https://github.com/william-frst/trabalho-final-lp/assets/94905269/207faa3c-d049-477b-9b42-7ef92793a8be
 
 Instalação/Como utilizar
 
