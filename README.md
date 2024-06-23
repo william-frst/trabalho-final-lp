@@ -4,6 +4,7 @@ Desenvolvido a partir da premissa de ser o trabalho final da disciplina Linguage
 
 # Ferramentas e Bibliotecas
 - Apache Netbeans
+- IntelliJ IDEA
 - Java 17
 - Java Swing
 - Java AbsoluteLayout
