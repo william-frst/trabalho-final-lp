@@ -20,7 +20,6 @@ Para executar o projeto, será utilizada como referência a IDE IntelliJ. Primei
 
 <img src="https://github.com/william-frst/trabalho-final-lp/blob/main/imagens%20readme/screenshot.png"/>
 
-
 Além disso, será necessário baixar a biblioteca AbsoluteLayout. Acesse o link <a href="https://jar-download.com/maven-repository-class-search.php?search_box=+absolute+layout">AbsoluteLayout</a>  e faça o download do arquivo AbsoluteLayout-RELEASE220.jar. No IntelliJ, clique em "File" > "Project Structure", vá até "Classpath", clique no ícone de adição (+) e adicione o arquivo AbsoluteLayout-RELEASE220.jar à lista. Em seguida, clique em "Apply" e depois em "OK".
 
 Seguindo esses passos, o projeto estará pronto para ser executado no IntelliJ, clicando no ícone verde de play.
@@ -33,7 +32,7 @@ Além disso, na tela de pagamento, o software possui validações para verificar
 
 
 # Demonstração
-https://github.com/william-frst/trabalho-final-lp/assets/94905269/a76a18a3-2a78-4280-b3f0-409e04e4efbd
+https://github.com/william-frst/trabalho-final-lp/assets/94905269/8c28fd01-5a30-46e2-9fb2-afdc74343fe2
 
 
 
