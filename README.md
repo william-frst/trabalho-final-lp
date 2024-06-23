@@ -31,6 +31,7 @@ O TekHouse possui funções de verificar e permitir ou negar acessos as telas a 
 <img src="https://github.com/william-frst/trabalho-final-lp/blob/main/imagens%20readme/Screenshot_1.png"/>
 
 Além disso, na tela de pagamento, o software possui validações para verificar se os dados inseridos estão formatados corretamente. Caso o usuário não escreva de maneira correta, como uma data de vencimento formatada inadequadamente, uma mensagem de erro será exibida, indicando a necessidade de corrigir os dados para prosseguir.
+
 <img src="https://github.com/william-frst/trabalho-final-lp/blob/main/imagens%20readme/Screenshot_2.png"/>
 
 # Demonstração
