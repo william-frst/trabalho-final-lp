@@ -14,7 +14,6 @@ Desenvolvido a partir da premissa de ser o trabalho final da disciplina Linguage
 - Software de Ambiente de desenvolvimento integrado (IDE)
 - Biblioteca AbsoluteLayout
 
-<img src="https://github.com/william-frst/trabalho-final-lp/blob/main/imagens%20readme/Desktop23-06-202400-46-36-ezgif.com-video-cutter.mp4"/>
 
 Instalação/Como utilizar
 
