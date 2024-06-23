@@ -20,7 +20,7 @@ Para executar o projeto, será utilizada como referência a IDE IntelliJ. Primei
 
 <img src="https://github.com/william-frst/trabalho-final-lp/blob/main/imagens%20readme/screenshot.png"/>
 
-Além disso, será necessário baixar a biblioteca AbsoluteLayout. Acesse o link <a href="https://jar-download.com/maven-repository-class-search.php?search_box=+absolute+layout">AbsoluteLayout</a>  e faça o download do arquivo AbsoluteLayout-RELEASE220.jar. No IntelliJ, clique em "File" > "Project Structure", vá até "Classpath", clique no ícone de adição (+) e adicione o arquivo AbsoluteLayout-RELEASE220.jar à lista. Em seguida, clique em "Apply" e depois em "OK".
+Além disso, será necessário baixar a biblioteca AbsoluteLayout. Acesse o link <a href="https://jar-download.com/maven-repository-class-search.php?search_box=+absolute+layout">AbsoluteLayout</a>  e faça o download do arquivo AbsoluteLayout-RELEASE220.jar. No IntelliJ, clique em "File" > "Project Structure", vá até "Platform Settings", depois em "SDKs" e em "Classpath", clique no ícone de adição (+) e adicione o arquivo AbsoluteLayout-RELEASE220.jar à lista. Em seguida, clique em "Apply" e depois em "OK".
 
 <img src="https://github.com/william-frst/trabalho-final-lp/blob/main/imagens%20readme/Screenshot_3.png"/>
 
