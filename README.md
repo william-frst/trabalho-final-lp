@@ -25,6 +25,13 @@ Além disso, será necessário baixar a biblioteca AbsoluteLayout. Acesse o link
 
 Seguindo esses passos, o projeto estará pronto para ser executado no IntelliJ, clicando no ícone verde de play.
 
+# Funcionalidades
+
+O TekHouse possui funções de verificar e permitir ou negar acessos as telas a depender dos dados inseridos. Por exemplo, na tela de login, o sistema não permitirá que o usuário avance se os campos obrigatórios não forem preenchidos. Se o usuário tentar prosseguir sem preencher os campos de texto com algum dado, uma mensagem de aviso será exibida, solicitando o preenchimento dos campos em branco.
+
+Além disso, na tela de pagamento, o software possui validações para verificar se os dados inseridos estão formatados corretamente. Caso o usuário não escreva de maneira correta, como uma data de vencimento formatada inadequadamente, uma mensagem de erro será exibida, indicando a necessidade de corrigir os dados para prosseguir.
+
+
 https://github.com/william-frst/trabalho-final-lp/assets/94905269/a76a18a3-2a78-4280-b3f0-409e04e4efbd
 
 
