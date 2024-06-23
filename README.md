@@ -9,9 +9,12 @@ Java Swing
 Java AbsoluteLayout
 
 
-Requisitos/Dependência
+# Requisitos e Dependência
+Java 17
+Software de Ambiente de desenvolvimento integrado (IDE)
+Biblioteca AbsoluteLayout
 
 Instalação/Como utilizar
 
-Apresentação mais especifica de 
+
 
