@@ -14,7 +14,12 @@ Desenvolvido a partir da premissa de ser o trabalho final da disciplina Linguage
 - Software de Ambiente de desenvolvimento integrado (IDE)
 - Biblioteca AbsoluteLayout
 
+# Instalação de Dependências e Execução (IntelliJ)
+Para executar o projeto, será utilizada como referência a IDE IntelliJ. Primeiramente, é necessário baixar o projeto a partir do repositório no GitHub. Em seguida, instale o IntelliJ e abra o projeto baixado. Caso esta seja a primeira execução, pode ser necessário instalar a JDK 17. Se for o caso, o IntelliJ exibirá uma mensagem solicitando a instalação; basta clicar em "Download".
 
+Além disso, será necessário baixar a biblioteca AbsoluteLayout. Acesse o link AbsoluteLayout e faça o download do arquivo AbsoluteLayout-RELEASE220.jar. No IntelliJ, clique em "File" > "Project Structure", vá até "Classpath", clique no ícone de adição (+) e adicione o arquivo AbsoluteLayout-RELEASE220.jar à lista. Em seguida, clique em "Apply" e depois em "OK".
+
+Seguindo esses passos, o projeto estará pronto para ser executado no IntelliJ, clicando no ícone verde de play.
 
 https://github.com/william-frst/trabalho-final-lp/assets/94905269/a76a18a3-2a78-4280-b3f0-409e04e4efbd
 
